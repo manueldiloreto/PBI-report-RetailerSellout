@@ -2,7 +2,7 @@
 
 ### Download the .pbix file in this repository to view the report
 
-The report shows sample data from two retailers selling security products, specifically security cameras, video recorders (VDRs), and smart doorbells.
-This interactive dashboard focuses on the top 10 products of each retailer and provides different views and filters to compare their performance with varying levels of detail.
+This Power BI report provides a comparative analysis of the performance of two retailers of a major player in the video surveillance industry. It focuses on their top 10 products, offering insights into sales trends and market dynamics. The data used in this report has been meticulously sanitized using standard anonymization techniques. This ensures compliance with data protection regulations, making it impossible to link the data back to individuals or organizations.
+A junction table was used to establish a relationship between each retailer's datasets (star schema). The report leverages data visualization techniques to present complex data in an easily understandable format, enabling stakeholders to make informed decisions.
 
 ![PBI Image](https://github.com/manueldiloreto/PBI-report-RetailerSellout/assets/120795430/22585da8-c433-4e3d-a399-daa450d9c934)
